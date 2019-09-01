@@ -91,4 +91,4 @@ bot.on("message", async message => {
 
 });
 
-bot.login(tokenfile.token);
+bot.login("NjE3MTE1NDM5NDQ4OTgxNTE1.XWmbrA.SFGNXrudykqWj8yNIeTR8CwXkD0");

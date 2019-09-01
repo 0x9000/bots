@@ -11,13 +11,10 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "fetch": "^1.1.0",
-    "fs": "0.0.1-security",
-    "https": "^1.0.0",
     "ms": "^2.1.2",
     "node-fetch": "^2.6.0",
     "nodemon": "^1.19.1",
     "npm": "^6.11.2",
-    "profanities": "^2.6.0",
     "request": "^2.88.0",
     "save": "^2.4.0",
     "snekfetch": "^4.0.4",
